@@ -21,13 +21,6 @@ This repository details the development of a Medical Chatbot designed to provide
 - [Dataset Information](#dataset-information)
 - [Paper Summary by Team Members](#paper-summary-by-team-members)
 
-## Team Members
-- Sonu Adhikari – st124409
-- Ashmita Phuyal – st124454
-- Sai Haneesha Bestha – st124089
-- Md Shafi Ud Doula – st124047
-- Tanzil Al Sabah – st123845
-
 ## Introduction
 
 ### Project Background
